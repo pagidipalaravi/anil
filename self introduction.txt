@@ -1,0 +1,50 @@
+Hello all this is Anil ,good morning all ,how are you? are you able to here me clearly?
+ 
+Tell me about yourself?
+	My name is Anil Bonthala,you can call me as Anil
+	I am from Telangana and native of Hyderabad.
+	I completed my graduation from Kakatiya University Warangal.
+	After having done my graduation i joined as an intern in aktrix technologies.
+	Later after completing  internship, I have been employed into Aktrix technologies.
+	I have 3 years and 6 months experience in IT Industry.
+	I started my carrer as a software developer and my primary skillset is the UI development.
+	My secondary skill is java and Sql.I can work on java and database also.  
+I have been involved in devloping mockups, wireframes, functional documents and low level design documents.
+I am a Quick learner and intreted in learning new technologies.
+Currently i am working for a project IFFCO and involeving in development as well as support
+PROJECT 	: Payroll
+Client		: Sopa Lodges - Africa
+Team Size	: 8
+Duration	: Jan-2018 to Jan-2019.
+Technologies : HTML, CSS, JavaScript, Typescript, Bootstrap, Angular6, Java.
+Tool		: Visual Studio Code, Eclipse.
+
+Description:
+	It is a web based project developed for payroll calculation with payroll, loan, leave and reports modules, govt. Reports; 
+	tax calculations etc. By using this, an organization can pay their payrolls without any manual calculations. 
+	Leave management module also there with this, employees can apply for leave,
+	admin people will approve that then he will get the leave.
+	All the calculations regarding leaves are done by this system.  Employee can apply for a loan. 
+	The admin people will check his history and they will approve or cancel that loan.  
+	If they approve that loan then every month automatically his instalment amount will be deducted from his salary.
+	With this an organization can pay salaries in multi-currency. 
+	Payroll management system provides dynamic creation of branches departments and taking the new employee details dynamically.
+	
+	•	Designed UI with HTML5, CSS3, java-script, Bootstrap and Angular.
+	•	Developed application navigation by using angular router and bootstrap.
+	•	Developed Responsive pages by using media quires in bootstrap. 
+	•	Developed forms using Template-Driven forms and Reactive forms.
+	•	Written Forms Validations logic using JavaScript, typescript and Angular. 
+	•	Developed list of values and dependent list of values.
+	•	Transformed data by using default pipes and custom pipes.
+	•	Involved in angular application deployment process.
+	•	Used Bootstrap to make the application user-friendly in the development of the Navigation bars, Tables, Sliders, Calendars.
+	•	Processed JSON response data by consuming RESTFUL web services by using HTTPClient module.
+	•	Implementing Auto Complete/Auto Suggest functionality using Angular, jQuery and JSON.
+	•	Written service classes by consuming JSON and XML Restful Web Services.
+	•	Integrated service classes with component classes by using Angular dependency injection.
+	•	Validated forms by using Angular form modules.
+	•	Developed design documents and provided estimates for the client requirements
+	•	Developed the presentation model popup layer using AJAX.
+
+	
